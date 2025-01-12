@@ -9,6 +9,7 @@ source ~/.bash_profile
 #
 # setting up simple cronjob
 ###################
+TRying to add a new branch "Merge"
 
 
 echo "printing date: $(date +%F_%H-%M-%S)" >> textfrmcronjob.txt
